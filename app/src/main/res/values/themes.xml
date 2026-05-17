@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.FeuerwehrApp" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">#7D0B23</item>
+        <item name="android:colorPrimaryDark">#5A0819</item>
+        <item name="android:statusBarColor">#7D0B23</item>
+    </style>
+</resources>
